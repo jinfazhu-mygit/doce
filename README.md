@@ -1,2 +1,2 @@
-# doce
+# docs
 for learn self blog

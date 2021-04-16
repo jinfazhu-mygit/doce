@@ -1,0 +1,27 @@
+{
+  "name": "doce",
+  "version": "1.0.0",
+  "description": "for learn self blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinfazhu-mygit/doce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinfazhu-mygit/doce/issues"
+  },
+  "homepage": "https://github.com/jinfazhu-mygit/doce#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
